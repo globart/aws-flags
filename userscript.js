@@ -12,6 +12,7 @@
   // Function to determine the emoji based on the country
   function getEmoji(city) {
     const cityToCountry = {
+      'Global': '🌎',
       'N. Virginia': '🇺🇸',
       'Ohio': '🇺🇸',
       'N. California': '🇺🇸',
