@@ -39,7 +39,8 @@
       'Spain': '🇪🇸',
       'Zurich': '🇨🇭',
       'Bahrain': '🇧🇭',
-      'UAE': '🇦🇪'
+      'UAE': '🇦🇪',
+      'Tel Aviv': '🇮🇱'
     };
 
     return cityToCountry[city] || '';
