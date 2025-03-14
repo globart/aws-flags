@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         AWS Console Emoji Injector
-// @version      2.0
+// @version      2.1
 // @description  Injects an emoji based on the region identifier from the URL into the AWS Console navigation menu button
 // @match        *://*.console.aws.amazon.com/*
 // @grant        GM_addStyle
+// @icon         https://cdn-icons-png.freepik.com/256/7408/7408153.png?semt=ais_hybrid
 // ==/UserScript==
 
 (function() {
@@ -20,17 +21,20 @@
       'ap-northeast-2': '🇰🇷',
       'ap-northeast-3': '🇯🇵',
       'ap-south-1': '🇮🇳',
+      'ap-south-2': '🇮🇳',
       'ap-southeast-1': '🇸🇬',
       'ap-southeast-2': '🇦🇺',
       'ap-southeast-3': '🇮🇩',
       'ap-southeast-4': '🇦🇺',
-      'ap-south-2': '🇮🇳',
+      'ap-southeast-5': '🇲🇾',
+      'ap-southeast-7': '🇹🇭',
       'ca-central-1': '🇨🇦',
       'ca-west-1': '🇨🇦',
       'eu-central-1': '🇩🇪',
       'eu-central-2': '🇩🇪',
       'eu-north-1': '🇸🇪',
       'eu-south-1': '🇮🇹',
+      'eu-south-2': '🇪🇸',
       'eu-west-1': '🇮🇪',
       'eu-west-2': '🇬🇧',
       'eu-west-3': '🇫🇷',
@@ -38,6 +42,7 @@
       'me-central-1': '🇦🇪',
       'me-south-1': '🇧🇭',
       'sa-east-1': '🇧🇷',
+      'mx-central-1': '🇲🇽',
       'us-east-1': '🇺🇸',
       'us-east-2': '🇺🇸',
       'us-west-1': '🇺🇸',
