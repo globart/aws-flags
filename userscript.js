@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AWS Console Emoji Injector
-// @version      2.1
+// @version      2.2
 // @description  Injects an emoji based on the region identifier from the URL into the AWS Console navigation menu button
 // @match        *://*.console.aws.amazon.com/*
 // @grant        GM_addStyle
@@ -28,6 +28,7 @@
       'ap-southeast-3': '🇮🇩',
       'ap-southeast-4': '🇦🇺',
       'ap-southeast-5': '🇲🇾',
+      'ap-southeast-6': '🇳🇿',
       'ap-southeast-7': '🇹🇭',
       'ca-central-1': '🇨🇦',
       'ca-west-1': '🇨🇦',
