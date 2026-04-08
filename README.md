@@ -1,1 +1,1 @@
-To make this work properly on Windows, you can use [this Chrome extension]([https://chromewebstore.google.com/detail/emoji-polyfill/kaplhmhahkanhjahbdbaamdaililfmkj](https://chromewebstore.google.com/detail/twemoji-for-chrome/fopgafjdjlongoeblobbafbnapafcicg))
+To make this work properly on Windows, you can use [this Chrome extension](https://chromewebstore.google.com/detail/twemoji-for-chrome/fopgafjdjlongoeblobbafbnapafcicg)
